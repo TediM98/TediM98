@@ -1,4 +1,4 @@
-
+![logo-gif](https://github.com/TediM98/TediM98/assets/129261052/60640b72-9f81-4be5-9643-5bf52474a521)
 <h1 align="center">Hi 👋, I'm Tedi Marunchak</h1>
 <h3 align="center">A FullStack Developer | Frontend Developer from Israel</h3>
 
