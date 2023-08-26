@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Tedi Marunchak</h1>
 <h3 align="center">A FullStack Developer | Frontend Developer from Israel</h3>
 
-- 🔭 I’m currently working on **a portfolio** -
-- 🌱 I’m currently learning**TypeScript & Next.js** -
-- 💬 Ask me about **React** -
+- 🔭 I’m currently working on **a portfolio** 
+- 🌱 I’m currently learning**TypeScript & Next.js** 
+- 💬 Ask me about **React** 
 - 📫 How to reach me **tedimarunchak@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
